@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "normalStoreUrl": "https://old-castle-infrastructure.mybigcommerce.com",
+  "port": "5000",
+  "packageManager": "npm"
+}
