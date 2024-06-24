@@ -53,7 +53,7 @@ header {
         }
         .navUser-item--cart .navUser-action {
             position: relative;
-            top: 4px;
+            top: 2px;
         }
         .navUser-item--cart {
             .dropdown-menu.is-open::after {
@@ -74,6 +74,10 @@ header {
 .navUser-item--cart {
     .navUser-action {
         position: relative;
+        // span {
+        //     // background: gold;
+        //     background: url('../img/info.png');
+        // }
         .countPill--positive {
             position: absolute;
             top: 6px;
