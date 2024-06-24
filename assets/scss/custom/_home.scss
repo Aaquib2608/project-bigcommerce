@@ -21,6 +21,10 @@ header {
             line-height: 1.4;
             border: 1px solid #092947;
             padding: 24px;
+            @media (max-width:800px) {
+                width: fit-content;
+                font-size: 1rem;
+            }
         }
     }
 }
